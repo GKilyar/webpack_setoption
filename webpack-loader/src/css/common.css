@@ -1,0 +1,12 @@
+@import './flex.css';
+body{
+    margin:0;
+    padding:0;
+    background: #ccc;
+    font-family: "microsoft yahei";
+    font-size: 20px;
+}
+ul li{
+    padding: 3px;
+    list-style: none;
+}
